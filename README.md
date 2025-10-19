@@ -22,4 +22,4 @@ Email: Mansikumari117@gmail.com
 
 LinkedIn : Mansi Tiwary
 
-Instagram : Mansi_tiwary
+Instagram : Mansi._tiwary
