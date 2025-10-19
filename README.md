@@ -1,12 +1,20 @@
-- 👋 Hi, I’m @MansiTiwary
-- 👀 Aspiring to Be a Software Enginer. 
-- 🌱 I’m currently learning JAVA SE
-- 💞️ I’m looking to collaborate on projects.
-- 📫 How to reach me mansikumari117@gmail.com
-- 👑 My LinkdeIn Id: https://www.linkedin.com/in/mansi-kumari-6926382ba?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app 
-  
+Hi! I’m Mansi Tiwary, a third-year Computer Science student at Technocrats Institute of Technology.
+I’m deeply passionate about coding, problem-solving, and exploring innovative technologies that make an impact.
 
-<!---
-MansiTiwary/MansiTiwary is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 My primary programming language is Java, and I love building efficient, well-structured, and scalable applications. 
+Alongside software development, I’m currently diving into the exciting world of Machine Learning, exploring how algorithms and data can create intelligent systems.
+
+
+🏆 Competitive Programming:
+Solved 2000+ problems on CodeChef 
+with a 4★ rating 🌟 on HackerRank, constantly improving my problem-solving and algorithmic thinking skills.
+Enthusiastic about challenges that push my limits and help me grow as a developer.
+
+🚀 I’m passionate about continuous learning and experimenting with new tools and frameworks.
+My goal is to integrate my knowledge of Java development and machine learning to build real-world, impactful solutions.
+
+
+📚 Interests: Java Development | Machine Learning | Data Science | Algorithms | Competitive Programming | Open Source
+📫 Let’s connect: 
+Email: Mansikumari117@gmail.com
+LinkedIn : Mansi Tiwary
