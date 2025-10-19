@@ -15,6 +15,11 @@ My goal is to integrate my knowledge of Java development and machine learning to
 
 
 📚 Interests: Java Development | Machine Learning | Data Science | Algorithms | Competitive Programming | Open Source
+
+
 📫 Let’s connect: 
-Email: Mansikumari117@gmail.com/n 
+Email: Mansikumari117@gmail.com
+
 LinkedIn : Mansi Tiwary
+
+Instagram : Mansi_tiwary
