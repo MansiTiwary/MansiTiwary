@@ -259,20 +259,9 @@ A technology-driven project focused on creating a smarter and more accessible di
 # 🏆 GitHub Trophies
 
 <p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=MansiTiwary&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" 
-    alt="GitHub Trophies" 
-  />
-</p>
-
----
-
-## 🏅 Certifications & Credentials
-
-<p align="center">
-  <img 
-    src="./microsoft-learn-credential.jpg" 
-    alt="Microsoft Learn Credential" 
+  <img
+    src="https://raw.githubusercontent.com/MansiTiwary/MansiTiwary/main/Credentials%20-%20MANSIKUMARI-6075%20_%20Microsoft%20Learn%20github_page-0001.jpg"
+    alt="Microsoft Learn Credential"
     width="750"
   />
 </p>
