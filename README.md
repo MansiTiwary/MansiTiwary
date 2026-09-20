@@ -1,5 +1,7 @@
-Hi! I’m Mansi Tiwary, a third-year Computer Science student at Technocrats Institute of Technology.
-I’m deeply passionate about coding, problem-solving, and exploring innovative technologies that make an impact.
+Hi! I’m **Mansi Tiwary**, a final-year **Computer Science Engineering student specializing in Artificial Intelligence and Data Science** at **Technocrats Institute of Technology**.
+
+I’m passionate about **coding, problem-solving, and emerging technologies**, and I enjoy turning ideas into practical solutions that can create a meaningful impact. I’m always eager to learn, explore new technologies, and challenge myself through projects and real-world problem-solving.
+
 
 💻 My primary programming language is Java, and I love building efficient, well-structured, and scalable applications. 
 Alongside software development, I’m currently diving into the exciting world of Machine Learning, exploring how algorithms and data can create intelligent systems.
