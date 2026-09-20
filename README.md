@@ -375,6 +375,8 @@ A technology-driven project focused on creating a smarter and more accessible di
 <p align="center">
   <a href="https://www.linkedin.com/feed/followers/">View LinkedIn Followers →</a>
 </p>
+
+<p align="center"> 🌐 <strong>Portfolio:</strong> <a href="https://mansi17portfolio.vercel.app/">mansi17portfolio.vercel.app</a> </p>
 <h3 align="center"> ✨ Code • Learn • Build • Innovate ✨ </h3>
 
 <p align="center"> ⭐ Thanks for visiting my profile! </p>
