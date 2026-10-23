@@ -38,6 +38,45 @@ I'm passionate about **coding, problem-solving, and emerging technologies**, and
 
 ---
 
+## 🌟 Leadership & Responsibilities
+
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C4CC&center=true&vCenter=true&width=850&lines=President+of+the+Student+Council+%F0%9F%91%91;Leading+with+Purpose+%26+Responsibility+%F0%9F%8C%9F;Representing+Student+Voices+%F0%9F%A4%9D;Former+Secretary+of+the+Literary+Club+%F0%9F%93%9A;Former+Prime+Member+of+the+Cultural+Club+%F0%9F%8E%AD;From+Club+Member+to+Student+Council+President+%F0%9F%9A%80" alt="Leadership Journey Typing SVG" />
+
+
+My journey in student leadership has been about taking initiative, working collaboratively, and contributing to campus life. Through the Student Council, I progressed through different roles, gaining experience in teamwork, communication, coordination, and leadership.
+
+### 👑 President — Student Council
+
+* Leading student initiatives and supporting student engagement.
+* Coordinating with student representatives and clubs to encourage collaboration.
+* Taking responsibility for student activities, ideas, and campus initiatives.
+* Working toward a more inclusive and engaging student community.
+
+### 📚 Secretary — Literary Club
+
+* Supporting the planning and coordination of literary activities and events.
+* Facilitating communication and collaboration among club members.
+* Encouraging students to participate in literary and creative activities.
+* Helping organize initiatives that promote communication and creativity.
+
+### 🎭 Prime Member — Cultural Club, Student Council
+
+* Actively contributing to cultural activities and student events.
+* Collaborating with fellow council members to support event planning and execution.
+* Encouraging student participation in extracurricular activities.
+* Contributing to a vibrant and engaging campus culture.
+
+---
+
+**✨ Leadership Journey:**
+🎭 Prime Member, Cultural Club → 📚 Secretary, Literary Club → 👑 President, Student Council
+
+*Growing through responsibility, leading with purpose, and creating impact through collaboration.*
+
+
+---
+
 ## 🎯 Current Focus
 
 * 🔭 Currently working on **AI Multi-Agent Travel Booking System**
