@@ -16,6 +16,10 @@
   </a>
 </p>
 
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C4CC&center=true&vCenter=true&width=750&lines=Learning+SAP+ABAP+%E2%9A%99%EF%B8%8F;Exploring+AI+%26+Generative+AI+%F0%9F%A4%96;Building+Intelligent+Enterprise+Solutions+%F0%9F%9A%80;Exploring+the+Future+of+AI+%26+SAP+%F0%9F%92%A1" alt="Typing SVG" />
+
+
 ---
 
 ## 👩‍💻 About Me
